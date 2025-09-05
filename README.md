@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Hans
 
-<!--
-**hlebon/hlebon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Senior Software Engineer**  
+⚡ Passionate about **Fullstack Development**, **Cloud Architecture**, and **Scalable Services**.  
+🚀 Always learning and building with modern technologies.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Frontend:** React, Next.js, React Native  
+- **Backend:** Node.js, TypeScript, Fastify, Prisma  
+- **Cloud & DevOps:** AWS (Lambda, SQS, SNS, EventBridge), Docker  
+- **Databases & Queues:** PostgreSQL, Redis, MongoDB  
+
+---
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hlebon&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hlebon&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/hansgarcia/) 
