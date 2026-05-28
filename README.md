@@ -54,12 +54,12 @@ I work across the stack — UI design and implementation, API design, and cloud 
 ### GitHub
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/hlebon?style=flat&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/hlebon?style=flat&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/hlebon?style=flat&label=Followers&color=57534e" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Repos&query=public_repos&url=https://api.github.com/users/hlebon&color=57534e&style=flat" alt="Public repos" />
+  <img src="https://komarev.com/ghpvc/?username=hlebon&label=Profile%20views&color=78716c" alt="Profile views" />
 </p>
 
 <p align="left">
-  <img src="./profile/stats.svg" alt="GitHub stats" height="165" />
-  <img src="./profile/top-langs.svg" alt="Top languages" height="165" />
+  <img height="165" src="https://raw.githubusercontent.com/hlebon/hlebon/main/profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/hlebon/hlebon/main/profile/top-langs.svg" alt="Top languages" />
 </p>
-
