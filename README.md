@@ -1,67 +1,65 @@
-# Hi, I'm Hans
+<h1 align="left">Hi, I'm Hans</h1>
 
-**Senior Software Engineer**  
-Building digital experiences with precision and care.
+<p align="left">
+  <strong>Senior Software Engineer</strong><br>
+  I build accessible, performant web experiences — from polished interfaces to scalable backends.
+</p>
 
----
-
-## About
-
-I'm a software engineer passionate about crafting accessible, pixel-perfect, and performant web interfaces. Currently working at Electric Power Engineers, building map-based applications and infrastructure solutions.
-
-I enjoy working across the full stack, from designing user interfaces to architecting scalable backend systems.
-
----
-
-## Tech Stack
-
-**Frontend**
-- React · Next.js · TypeScript
-- React Native
-
-**Backend**
-- Node.js · TypeScript
-- Fastify · Prisma
-
-**Cloud & Infrastructure**
-- AWS (Lambda, SQS, SNS, EventBridge)
-- Docker
-
-**Databases**
-- PostgreSQL · Redis · MongoDB
+<p align="left">
+  <a href="https://www.linkedin.com/in/hansgarcia/">LinkedIn</a> ·
+  <a href="https://hansgarcia.dev">Portfolio</a> ·
+  <a href="https://github.com/hlebon">GitHub</a>
+</p>
 
 ---
 
-## Experience
+### About
 
-I've worked with companies across different industries:
-- **Energy & Infrastructure** - Building map-based web applications
-- **E-commerce & Retail** - Optimizing analytics and conversion flows
-- **Healthcare Tech** - Developing workflow management systems
-- **Software Development** - Migrating legacy applications to modern stacks
+Software engineer focused on pixel-perfect, accessible interfaces and reliable systems. Currently at **Electric Power Engineers**, building map-based applications and infrastructure tooling.
+
+I work across the stack — UI design and implementation, API design, and cloud infrastructure.
 
 ---
 
-## GitHub Stats
+### Stack
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hlebon&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1c1917&text_color=57534e&icon_color=78716c&hide=prs,issues" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlebon&layout=compact&hide_border=true&bg_color=ffffff&title_color=1c1917&text_color=57534e" alt="Top Languages" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
 ---
 
-## Connect
+### Background
 
-The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/hansgarcia/).
-
-You can also check out my [portfolio](https://hansgarcia.dev) or view my code on [GitHub](https://github.com/hlebon).
+| Industry | Focus |
+| --- | --- |
+| Energy & Infrastructure | Map-based web applications |
+| E-commerce & Retail | Analytics and conversion optimization |
+| Healthcare Tech | Workflow management systems |
+| Software Development | Legacy modernization |
 
 ---
 
-<div align="center">
-  <sub>Built with care</sub>
-</div>
+### GitHub
 
+<p align="left">
+  <img src="https://img.shields.io/github/followers/hlebon?style=flat&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/hlebon?style=flat&label=Stars" alt="Stars" />
+</p>
 
+<p align="left">
+  <img src="./profile/stats.svg" alt="GitHub stats" height="165" />
+  <img src="./profile/top-langs.svg" alt="Top languages" height="165" />
+</p>
 
