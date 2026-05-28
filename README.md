@@ -59,6 +59,8 @@ I work across the stack — UI design and implementation, API design, and cloud 
   <img src="https://komarev.com/ghpvc/?username=hlebon&label=Profile%20views&color=78716c" alt="Profile views" />
 </p>
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hlebon&theme=minimal&hide_border=true&bg_color=ffffff&color=57534e&line=78716c&point=1c1917&area=true" alt="Contribution graph" />
+
 <p align="left">
   <img height="165" src="https://raw.githubusercontent.com/hlebon/hlebon/main/profile/stats.svg" alt="GitHub stats" />
   <img height="165" src="https://raw.githubusercontent.com/hlebon/hlebon/main/profile/top-langs.svg" alt="Top languages" />
